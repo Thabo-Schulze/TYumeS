@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TYumeS
-- 👀 I’m interested in Coding/GameDev and Music
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Games
-- 📫 How to reach me ...
+ - 👀 I’m interested in Scala and Java     
+- 🌱 I’m currently learning git & Java
 
 <!---
 TYumeS/TYumeS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
