@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TYumeS
- - 👀 I’m interested in Scala and Java     
-- 🌱 I’m currently learning git & Java
+- 👋 Hi, I’m @Thabo_Schulze
+ - 👀 I’m interested in C     
+- 🌱 I’m currently studying for a B. Sc in Technical Cumputer Sience
 
 <!---
 TYumeS/TYumeS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
